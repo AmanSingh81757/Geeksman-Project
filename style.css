@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -162,7 +163,7 @@ header{
 }
 .topic{
     margin: 5px 5px 5px 25px;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Gulzar', serif;
     color: goldenrod;
     text-decoration: dashed;
     font-size: 200%;
