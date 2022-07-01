@@ -284,7 +284,6 @@ header{
 .email-button:hover{
     color: rgba(255, 255, 255, 0.644);
     border: 3px solid rgba(192, 192, 192, 0.712);
-    padding: 1% 1.5%;
     box-shadow: 0px 0px 20px gray;
 }
 .phone-button{
@@ -301,6 +300,5 @@ header{
 .phone-button:hover{
     color: rgba(255, 255, 255, 0.644);
     border: 3px solid rgba(192, 192, 192, 0.712);
-    padding: 1% 1.5%;
     box-shadow: 0px 0px 20px gray;
 }
